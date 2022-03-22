@@ -102,7 +102,7 @@ public class PremiumCalculatorTests {
     }
 
     /**
-     * Scenario 3: One policy, one object, two sub-objects with same risk type
+     * Scenario 4: One policy, one object, two sub-objects with same risk type
      * riskType=THEFT , sum insured=5.00
      * riskType=THEFT , sum insured=1.00
      * Expected result 0.66 EUR
@@ -123,7 +123,7 @@ public class PremiumCalculatorTests {
         assertEquals(expectedValue,actualValue);
     }
     /**
-     * Scenario 3: One policy with no policy objects
+     * Scenario 5: One policy with no policy objects
      * Expected result 0.00 EUR
      */
     @Test
