@@ -33,9 +33,9 @@ This method can be accesed using the following endpoint http://localhost:8080/ca
 }
 
 The main object entities are:
-2 enums : RiskType and PolicyStatus
-3 clases : Policy, PolicyObject, PolicySubObjects containing the attributes described in the requirements.
-1 controller (PremiumCalculatorController) that contains a GET method representing the main calculation method.
+2 enums : RiskType and PolicyStatus,
+3 clases : Policy, PolicyObject, PolicySubObjects containing the attributes described in the requirements,
+1 controller (PremiumCalculatorController) that contains a GET method representing the main calculation method,
 1 service class containing the calculation logic.
 
 In order to easy expand the implementation for a potential new risk type, I chose to create an enum class (RiskType) containing the risk types and a method which calculates the coefficient used for each risk type.
