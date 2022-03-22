@@ -50,4 +50,4 @@ This method receives 2 parameters : a list of sub-objects and a risk type and ca
 In order to calculate the sum insured by risk type, #sumInsuredByRisk method  is used. This method receives a list of sub-objects and a risk type and filters the sub-object lists using the risk type provided and retruns the sum of all sub-objects that have the speciefied risk.
 
 
-Unit tests for the implementation are also present containg 5
+Unit tests for the implementation are also present, containg 5 possible use cases.
