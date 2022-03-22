@@ -2,7 +2,7 @@
 
 Implementation description.
 
-PremiumCalculator was imeplemented using the following technologies:
+PremiumCalculator was implemented using the following technologies:
 - java 8 
 - spring boot 2.6.4
 - junit 4
