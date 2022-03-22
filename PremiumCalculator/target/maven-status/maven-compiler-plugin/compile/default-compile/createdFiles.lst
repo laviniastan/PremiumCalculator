@@ -1,0 +1,9 @@
+com\example\premiumCalculator\model\PolicySubObject.class
+com\example\premiumCalculator\PremiumCalculatorApplication.class
+com\example\premiumCalculator\enums\RiskType$1.class
+com\example\premiumCalculator\enums\RiskType.class
+com\example\premiumCalculator\service\PremiumCalculatorService.class
+com\example\premiumCalculator\enums\PolicyStatus.class
+com\example\premiumCalculator\model\PolicyObject.class
+com\example\premiumCalculator\controller\PremiumCalculatorController.class
+com\example\premiumCalculator\model\Policy.class
